@@ -40,4 +40,8 @@ Commit #20 Squash local commit
 
 Commit #21 Squash local commit
 
+Commit #22 Cherry pick demo commit 1
+
+Commit #23 Cherry pick demo commit 2
+
 No more commits after this line
